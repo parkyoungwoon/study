@@ -1,4 +1,9 @@
 # study
+
+참고 사이트
+-- pom.xml 양식 다운받는 사이트
+https://mvnrepository.com/
+
 공부한 내용
 
 spring 관련
